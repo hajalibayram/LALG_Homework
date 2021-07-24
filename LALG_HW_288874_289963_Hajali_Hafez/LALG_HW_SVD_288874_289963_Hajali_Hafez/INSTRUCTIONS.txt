@@ -1,0 +1,12 @@
+The following packages of python are needed for execution:
+	matplotlib
+	numpy
+	sklearn
+	open-cv (cv2)
+	PIL
+	scipy
+	imageio
+
+Run the scripts main_clustering.py and main_video.py and all of the results will be generated for the clustering and video background removal, respectively.
+
+Alternatively, you can run the notebooks hw3_video.ipynb or hw3_clustering  from the beginning.

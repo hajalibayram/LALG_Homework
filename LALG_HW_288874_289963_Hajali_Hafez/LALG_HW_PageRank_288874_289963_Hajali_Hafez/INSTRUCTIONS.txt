@@ -1,0 +1,11 @@
+Before running make sure you have "edges_file_python" inside the code directory
+ 
+The following packages of python are needed for execution:
+	matplotlib
+	numpy
+	scipy
+	copy
+
+Run main.py script and all of the results will be generated in the command line, and the figures will be reproduced.
+
+Alternatively, you can run the notebook 'pagerank.ipynb' from the beginning.
