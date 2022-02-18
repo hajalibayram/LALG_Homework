@@ -1,4 +1,4 @@
-# Applications of Krylov methods and dimentionality reduction techniques in solving real-world problems
+# Applications of Krylov methods and dimentionality reduction techniques in solving real-world problems, Computational Linear Algebra Course @PoliTO - A.Y. 2021
 
 1. Pagerank algorithm implementation and analysis
 
